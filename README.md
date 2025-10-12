@@ -7,12 +7,12 @@
 ![Systems Programming](https://img.shields.io/badge/Systems-Programming-red.svg?style=for-the-badge&labelColor=black)
 ![YouTube](https://img.shields.io/badge/YouTube-Aarambh%20Dev%20Hub-red?style=for-the-badge&logo=youtube)
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshan-aarambh&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aarambh-darshan&color=brightgreen&style=flat-square)
 
 **Building blazing-fast web frameworks and systems programming tools** 🔥
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCm5U5uQiZA_mQY5wQ6WfUVA?style=social&logo=youtube&label=Aarambh%20Dev%20Hub)](https://youtube.com/@aarambhdevhub)
-[![GitHub followers](https://img.shields.io/github/followers/darshan-aarambh?style=social)](https://github.com/darshan-aarambh)
+[![GitHub followers](https://img.shields.io/github/followers/aarambh-darshan?style=social)](https://github.com/aarambh-darshan)
 
 </div>
 
@@ -127,11 +127,11 @@ All projects are maintained under the **[@AarambhDevHub](https://github.com/Aara
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan-aarambh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarambh-darshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshan-aarambh&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarambh-darshan&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-aarambh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarambh-darshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
@@ -159,7 +159,7 @@ All projects are maintained under the **[@AarambhDevHub](https://github.com/Aara
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@aarambhdevhub)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-aarambh)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarambh-darshan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-vichhi-rust-developer)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aarambhdevhub)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HDth6PfCnp)
@@ -179,7 +179,7 @@ All projects are maintained under the **[@AarambhDevHub](https://github.com/Aara
 If you find my frameworks and projects valuable:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aarambhdevhub)
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/darshan-aarambh)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/aarambh-darshan)
 
 Your support helps maintain and improve Blaze, Ignitia, and all open-source projects!
 
@@ -189,7 +189,7 @@ Your support helps maintain and improve Blaze, Ignitia, and all open-source proj
 
 ## 📈 **Contribution Activity**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan-aarambh&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aarambh-darshan&theme=react-dark&hide_border=true)
 
 **🔥 Building the future of high-performance web frameworks 🚀**
 
